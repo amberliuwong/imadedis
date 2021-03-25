@@ -5,9 +5,15 @@ import yaml
 
 import sort_jokes
 import sys
-sys.exit()
 
-jokes2signs = yaml.safe_load(open("jokes2signs.yaml"))
+
+sort_jokes.run()
+nested = yaml.safe_load(open("jokes2signs.yaml"))
+jokes2signs = {}
+for d in jokes2signs.values():
+    for k, v in d.items():
+        jokes2signs[k] = v
+
 
 print(time.ctime())
 start_time = time.time()
