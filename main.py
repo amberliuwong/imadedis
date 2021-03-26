@@ -4,13 +4,12 @@ import random
 import yaml
 
 import sort_jokes
-import sys
 
 
 sort_jokes.run()
 nested = yaml.safe_load(open("jokes2signs.yaml"))
 jokes2signs = {}
-for d in jokes2signs.values():
+for d in nested.values():
     for k, v in d.items():
         jokes2signs[k] = v
 
