@@ -1,33 +1,33 @@
-letters:
-    I promise: b
-    crimpy grip: e
-    Ok, fail: f
-    pinkies up!: i
-    my swoop: j
-    upsidedown k: p
-    g, but down: q
-    good luck!: r
-    scouts honor: u
-    sweet waves, dude!: y
-    Yar! hook marks the spot: x
-    mark of zoro: z
-questions:
-    owl trigger: who
-    bLoOd SaCrAfIcE: what
-    one cycle: when
-    spin the globe: where
-    memory strand: why
-    peeling a mango: how
 feelings:
-    bane: mad
-    aaaaahhhhh: happy
-    high twenty: awesome
-    them droopy bookbag straps: tired
-    dragon's breath!: hot
-    spring breeze: warm
-    oh no, I dropped my spell: confused
-    aww... don't look at me: shy
+  aaaaahhhhh: happy
+  aww... don't look at me: shy
+  bane: mad
+  dragon's breath!: hot
+  high twenty: awesome
+  oh no, I dropped my spell: confused
+  spring breeze: warm
+  them droopy bookbag straps: tired
+letters:
+  I promise: b
+  Ok, fail: f
+  Yar! hook marks the spot: x
+  crimpy grip: e
+  g, but down: q
+  good luck!: r
+  mark of zoro: z
+  my swoop: j
+  pinkies up!: i
+  scouts honor: u
+  sweet waves, dude!: y
+  upsidedown k: p
 other:
-    baby goatee: cute
-    I flip my thumb at you, sir: not
-    Um, close your lips: no
+  I flip my thumb at you, sir: not
+  Um, close your lips: false
+  baby goatee: cute
+questions:
+  bLoOd SaCrAfIcE: what
+  memory strand: why
+  one cycle: when
+  owl trigger: who
+  peeling a mango: how
+  spin the globe: where
