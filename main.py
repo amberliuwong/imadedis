@@ -44,3 +44,4 @@ print()
 for key, val in missed.items():
   print(f"Missed: '{key}'")
   print(f"Correct Answer: '{val}'\n")
+  print(f"https://www.signasl.org/sign/{val}")
