@@ -1,4 +1,9 @@
+animals:
+  bug: bug
+  face stripes: tiger
+  tweet tweet!: bird
 feelings:
+  ILY!: i love you
   aaaaahhhhh: happy
   aww... don't look at me: shy
   bane: mad
@@ -22,12 +27,16 @@ letters:
   upsidedown k: p
 other:
   I flip my thumb at you, sir: not
-  Um, close your lips: false
+  Um, close your lips: 'no'
   baby goatee: cute
+  mmhm: 'yes'
+  tack down a postit: remember
+  just gonna pull something out of the air: guess
 questions:
   bLoOd SaCrAfIcE: what
   memory strand: why
   one cycle: when
   owl trigger: who
   peeling a mango: how
+  see-saw for your thumbs: which
   spin the globe: where
