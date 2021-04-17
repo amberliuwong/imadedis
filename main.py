@@ -22,26 +22,26 @@ player_score = 0
 total_counter = 0
 missed = {}
 while not game_is_over:
-  joke = random.choice(list(jokes2signs))
-  print(joke)
-  player_response = input('which sign?: ')
-  total_counter += 1
-  player_is_correct = jokes2signs[joke] == player_response
-  if player_is_correct:
-    player_score += 1
-  else:
-    missed[joke] = jokes2signs[joke]
-  current_time = time.time()
-  game_is_over = current_time - start_time >= game_length
-  del jokes2signs[joke]
+    joke = random.choice(list(jokes2signs))
+    print(joke)
+    player_response = input("which sign?: ")
+    total_counter += 1
+    player_is_correct = jokes2signs[joke] == player_response
+    if player_is_correct:
+        player_score += 1
+    else:
+        missed[joke] = jokes2signs[joke]
+    current_time = time.time()
+    game_is_over = current_time - start_time >= game_length
+    del jokes2signs[joke]
 
 print()
 print(time.ctime())
 print("Correct Answers: " + str(player_score))
-print("Wrong Answers: " + str(total_counter-player_score))
+print("Wrong Answers: " + str(total_counter - player_score))
 print("Total Questions: " + str(total_counter))
 print()
 for key, val in missed.items():
-  print(f"Missed: '{key}'")
-  print(f"Correct Answer: '{val}'\n")
-  print(f"https://www.signasl.org/sign/{val}")
+    print(f"Missed: '{key}'")
+    print(f"Correct Answer: '{val}'\n")
+    print(f"https://www.signasl.org/sign/{val}")
