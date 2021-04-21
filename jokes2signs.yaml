@@ -2,6 +2,8 @@ animals:
   bug: bug
   face stripes: tiger
   tweet tweet!: bird
+  snap! come here, fido!: dog
+  grab your forehead; roar: lion
 feelings:
   ILY!: i love you
   aaaaahhhhh: happy
@@ -39,14 +41,13 @@ other:
   tack that thought down: remember
   two-handed p: word
   ??: question
+  just gonna pull something out of the air: guess
+  interlocking fingers: roommate
 colors:
   pull out ghost: white
 numbers:
   shake an a: 10
-  baby goatee: cute
-  just gonna pull something out of the air: guess
-  mmhm: 'yes'
-  tack down a postit: remember
+  3: 6
 questions:
   bLoOd SaCrAfIcE: what
   memory strand: why
