@@ -13,9 +13,11 @@ feelings:
   aaaaahhhhh: happy
   aww... don't look at me: shy
   bane: mad
+  chest 5: fine
   dragon's breath!: hot
   high twenty: awesome
   oh no, I dropped my spell: confused
+  pull straight from the heart: like
   spring breeze: warm
   them droopy bookbag straps: tired
 letters:
@@ -32,10 +34,10 @@ letters:
   sweet waves, dude!: y
   upsidedown k: p
 numbers:
-  shake an a: 10
-  3: 6
-  one one: 11
-  1C: 100
+  shake an a: '10'
+  3: '6'
+  one one: '11'
+  1C: '100'
 other:
   ??: question
   Double H: name
@@ -51,6 +53,7 @@ other:
   shake a T: toilet
   squeeze an udder: milk
   tack that thought down: remember
+  twist V on palm when you don't know a sign: mean
   two-handed p: word
   week falls off cliff: weekend
   you're in luck; I'm here!: ready

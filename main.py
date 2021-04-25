@@ -16,7 +16,7 @@ for d in nested.values():
 
 print(time.ctime())
 start_time = time.time()
-game_length = 20
+game_length = 120
 game_is_over = False
 player_score = 0
 total_counter = 0
