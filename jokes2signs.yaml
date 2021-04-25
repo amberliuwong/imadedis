@@ -1,11 +1,15 @@
 animals:
   bug: bug
   face stripes: tiger
-  tweet tweet!: bird
-  snap! come here, fido!: dog
   grab your forehead; roar: lion
+  snap! come here, fido!: dog
+  tweet tweet!: bird
+colors:
+  hmm... a color: red
+  pull out ghost: white
 feelings:
   ILY!: i love you
+  Rishi likes this :'(: sad
   aaaaahhhhh: happy
   aww... don't look at me: shy
   bane: mad
@@ -14,7 +18,6 @@ feelings:
   oh no, I dropped my spell: confused
   spring breeze: warm
   them droopy bookbag straps: tired
-  Rishi likes this :'(: sad
 letters:
   I promise: b
   Ok, fail: f
@@ -28,38 +31,35 @@ letters:
   scouts honor: u
   sweet waves, dude!: y
   upsidedown k: p
-other:
-  I flip my thumb at you, sir: not
-  Um, close your lips: 'no'
-  knock, knock!: 'yes'
-  baby goatee: cute
-  do-do; hehehe!: do
-  you're in luck; I'm here!: ready
-  shake a T: toilet
-  week falls off cliff: weekend
-  Double H: name
-  tack that thought down: remember
-  put something new in your head: learn
-  two-handed p: word
-  ??: question
-  just gonna pull something out of the air: guess
-  ~work~ hard play hard: work
-  chest rub: please
-  I take. Both hands. Please; thanks.: want
-  squeeze an udder: milk
-people:
-  masculine 5: father
-  chin 5: mother
-  grab a bill cap: boy
-  interlocking fingers: roommate
-colors:
-  pull out ghost: white
-  hmm... a color: red
 numbers:
   shake an a: 10
   3: 6
   one one: 11
   1C: 100
+other:
+  ??: question
+  Double H: name
+  I flip my thumb at you, sir: not
+  I take. Both hands. Please; thanks.: want
+  Um, close your lips: 'no'
+  baby goatee: cute
+  chest rub: please
+  do-do; hehehe!: do
+  just gonna pull something out of the air: guess
+  knock, knock!: 'yes'
+  put something new in your head: learn
+  shake a T: toilet
+  squeeze an udder: milk
+  tack that thought down: remember
+  two-handed p: word
+  week falls off cliff: weekend
+  you're in luck; I'm here!: ready
+  ~work~ hard play hard: work
+people:
+  chin 5: mother
+  grab a bill cap: boy
+  interlocking fingers: roommate
+  masculine 5: father
 questions:
   bLoOd SaCrAfIcE: what
   memory strand: why
