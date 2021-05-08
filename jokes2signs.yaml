@@ -42,7 +42,6 @@ numbers:
   one one: '11'
   1C: '100'
 other:
-  ??: question
   Double H: name
   I flip my thumb at you, sir: not
   I take. Both hands. Please; thanks.: want
@@ -54,7 +53,6 @@ other:
   knock, knock!: 'yes'
   put something new in your head: learn
   shake a T: toilet
-  squeeze an udder: milk
   tack that thought down: remember
   twist V on palm when you don't know a sign: mean
   two-handed p: word
@@ -76,3 +74,9 @@ questions:
   peeling a mango: how
   see-saw for your thumbs: which
   spin the globe: where
+food:
+  chin L: lunch
+  squeeze an udder: milk
+  Grindr: coffee
+  Pour Some Sugar on Me: sugar
+  That part of my thumb does resemble a drumbstick: meat
