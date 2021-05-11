@@ -30,7 +30,7 @@ while not game_is_over:
     if player_is_correct:
         player_score += 1
     else:
-        missed[joke] = jokes2signs[joke]
+        missed[joke] = {'correct': jokes2signs[joke], 'response': player_response}
     current_time = time.time()
     game_is_over = current_time - start_time >= game_length
     del jokes2signs[joke]
@@ -41,7 +41,10 @@ print("Correct Answers: " + str(player_score))
 print("Wrong Answers: " + str(total_counter - player_score))
 print("Total Questions: " + str(total_counter))
 print()
-for key, val in missed.items():
-    print(f"Missed: '{key}'")
-    print(f"Correct Answer: '{val}'\n")
-    print(f"https://www.signasl.org/sign/{val}")
+for joke, data in missed.items():
+    correct = data['correct']
+    response = data['response']
+    print(f"Missed: '{joke}'")
+    print(f"You answered: '{response}'")
+    print(f"Correct Answer: '{correct}'")
+    print(f"https://www.signasl.org/sign/{correct}\n")
