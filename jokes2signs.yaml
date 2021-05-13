@@ -47,6 +47,7 @@ numbers:
   3: '6'
   one one: '11'
   1C: '100'
+  5C: '500'
 other:
   D hands going in opposite directions: divorce
   Double H: name
@@ -58,6 +59,7 @@ other:
   bug ear: hear
   chest rub: please
   do-do; hehehe!: do
+  halp!: help
   just gonna pull something out of the air: guess
   knock, knock!: 'yes'
   put something new in your head: learn
@@ -66,9 +68,11 @@ other:
   twist V on palm when you don't know a sign: mean
   two-handed p: word
   week falls off cliff: weekend
+  wow, I didn't even TRY. What a coincidence: try
   you're in luck; I'm here!: ready
   ~work~ hard play hard: work
-  halp!: help
+  _Flickering of Flames_: fire
+  sun coming over the horizon: morning
 people:
   chin 5: mother
   father, but it bounces: grandfather
